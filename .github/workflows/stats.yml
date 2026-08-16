@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: username=Tushar-07-byte&show_icons=true
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Publish stats.svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
