@@ -13,6 +13,7 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     permissions:
       contents: write
@@ -22,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Tushar-07-byte&show_icons=true&theme=dracula
+          options: username=Tushar-07-byte&show_icons=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=8be9fd&border_color=44475a&hide_border=true
           path: dist/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
