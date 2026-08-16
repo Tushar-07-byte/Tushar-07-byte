@@ -20,10 +20,10 @@ jobs:
 
     steps:
       - name: Generate stats.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Tushar-07-byte&show_icons=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=8be9fd&border_color=44475a&hide_border=true
+          options: username=Tushar-07-byte&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&theme=dracula&locale=en&hide_border=true&custom_title=GitHub%20Stats
           path: dist/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
