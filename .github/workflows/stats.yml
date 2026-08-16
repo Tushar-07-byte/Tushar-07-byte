@@ -16,14 +16,14 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate stats.svg
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&custom_title=GitHub%20Stats
+          options: username=Tushar-07-byte&show_icons=true
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
