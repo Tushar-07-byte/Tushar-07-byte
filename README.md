@@ -4,13 +4,15 @@
 
 ### Full-Stack Developer • AI/ML Enthusiast • Open-Source Learner
 
+Building practical projects, learning continuously, and exploring the intersection of software development and AI.
+
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -26,13 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
 </div>
 
-### Frontend
+### 🎨 Frontend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </div>
 
-### Backend
+### ⚙️ Backend
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
@@ -42,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
 </div>
 
-### AI / ML & Data
+### 🤖 AI / ML & Data
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
@@ -56,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
 </div>
 
-### Databases
+### 🗄️ Databases
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
@@ -64,7 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 </div>
 
-### Tools
+### 🧰 Tools & Platforms
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -83,13 +85,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tushar-07-byte/Tushar-07-byte/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="GitHub Stats" />
 
-  <img src="https://raw.githubusercontent.com/Tushar-07-byte/Tushar-07-byte/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="150" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/Tushar-07-byte/Tushar-07-byte/stats-output/stats.svg" height="170" alt="GitHub Stats" />
+
+  <img src="https://raw.githubusercontent.com/Tushar-07-byte/Tushar-07-byte/languages-output/languages.svg" height="170" alt="Most Used Languages" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Tushar-07-byte&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="Contribution Streak" />
+
+  <img src="https://streak-stats.demolab.com?user=Tushar-07-byte&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="Contribution Streak" />
+
 </div>
 
 ---
@@ -97,7 +105,17 @@
 ## 🌐 Connect With Me
 
 <div align="left">
+
   <a href="https://www.linkedin.com/in/tushar-anand-07629b329/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
 </div>
